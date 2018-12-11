@@ -1,0 +1,207 @@
+﻿n,nodeId
+"{nomeCurso:Bacharelado em Sistemas de Informação,duracao:8 semestre,descricao:O curso de Bacharelado em Sistemas de Informação está em sintonia com o espírito inovador do Instituto Federal Catarinense, visando suprir a carência de mercado na formação de profissionais para atuarem nesta área. Focado nesse aspecto, o curso oferecido pelo Instituto Federal Catarinense Campus Araquari tem a característica formar profissionais aptos ao planejamento, aquisição e gerenciamento de serviços e recursos da Tecnologia da Informação e Computação aplicados ao desenvolvimento e à evolução de sistemas e infraestruturas de automatização dos processos organizacionais. }",0
+"{qtd_credito:30,nomeDisciplina:Redes 1,cargaHoraria:40 horas}",1
+"{qtd_credito:30,nomeDisciplina:Banco de Dados,cargaHoraria:40 horas}",20
+"{periodo:matutino,curso:Bacharelado em Sistemas de Informacao,nomeTURMA:BSI 6}",40
+"{qtd_credito:30,nomeDisciplina:Sistema Operacional,cargaHoraria:40 horas}",60
+"{qtd_credito:30,nomeDisciplina:Gerência de projetos,cargaHoraria:60 horas}",61
+"{periodo:integral,curso: Bacharelado em Medicina Veterinária,nomeTURMA:MEDVET 4}",62
+"{qtd_credito:30,nomeDisciplina:Agricultura I,cargaHoraria:60 horas}",63
+"{qtd_credito:30,nomeDisciplina:Defesa Fitossanitaria,cargaHoraria:60 horas}",64
+"{qtd_credito:30,nomeDisciplina:Irrigação e Drenagem,cargaHoraria:60 horas}",65
+"{qtd_credito:30,nomeDisciplina:Agricultura II,cargaHoraria:60 horas}",66
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:2AGRO2}",67
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:3AGRO2}",68
+"{qtd_credito:30,nomeDisciplina:Doenças Parasitarias dos Animais Domesticos ,cargaHoraria:60 horas}",71
+"{periodo:integral,curso:Bacharelado em Medicina Veterinária,nomeTURMA:MEDVET 8}",72
+"{qtd_credito:30,nomeDisciplina:Química Inorgânica I,cargaHoraria:60 horas}",73
+"{qtd_credito:30,nomeDisciplina:História e Epistemologia da Química ,cargaHoraria:60 horas}",74
+"{qtd_credito:30,nomeDisciplina:Fundamentos de Bioquimica,cargaHoraria:60 horas}",75
+"{periodo:matutino,curso:Bacharelado em Sistemas de Informacao,nomeTURMA:BSI 2}",76
+"{qtd_credito:30,nomeDisciplina:Matematica Discreta,cargaHoraria:40 horas}",77
+"{qtd_credito:30,nomeDisciplina:Metodologia Científica,cargaHoraria:40 horas}",78
+"{qtd_credito:30,nomeDisciplina:Programação Orientado a Objetos 2,cargaHoraria:40 horas}",79
+"{qtd_credito:30,nomeDisciplina:Estrutura de Dados 1,cargaHoraria:40 horas}",80
+"{qtd_credito:30,nomeDisciplina:Tópicos Avançados em Redes,cargaHoraria:40 horas}",81
+"{qtd_credito:30,nomeDisciplina:Trabalho de Conclusão do Curso 2,cargaHoraria:40 horas}",82
+"{qtd_credito:30,nomeDisciplina:Gestão de Tecnologia de Informação,cargaHoraria:40 horas}",83
+"{qtd_credito:30,nomeDisciplina:Administração de Sistemas Operacionais,cargaHoraria:60 horas}",84
+"{qtd_credito:30,nomeDisciplina:Projeto Integrador,cargaHoraria:60 horas}",87
+"{periodo:integral,curso: Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:3INFO2}",88
+"{periodo:integral,curso: Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:2INFO3}",89
+"{periodo:Integral,curso:Bacharelado em Medicina Veterinária,nomeTURMA:MEDVET 2}",91
+"{qtd_credito:30,nomeDisciplina:Histologia Veterinaria,cargaHoraria:60 horas}",92
+"{qtd_credito:30,nomeDisciplina:Bivalves,cargaHoraria:90 horas}",93
+"{qtd_credito:30,nomeDisciplina:Fisiologia Veterinaria II,cargaHoraria:90 horas}",94
+"{qtd_credito:30,nomeDisciplina:Extensão Rural,cargaHoraria:30 horas}",95
+"{periodo:matutino,curso:teste,nomeTURMA:BSI}",96
+"{qtd_credito:30,nomeDisciplina:Sociologia,cargaHoraria:40 horas}",97
+"{qtd_credito:30,nomeDisciplina:Arquitetura de Computadores,cargaHoraria:40 horas}",98
+"{qtd_credito:30,nomeDisciplina:Empreendedorismo,cargaHoraria:40 horas}",99
+"{qtd_credito:30,nomeDisciplina:Engenharia de Software 2,cargaHoraria:40 horas}",100
+"{periodo:integral,curso:Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:1INFO3}",101
+"{periodo:integral,curso:Bacharelado em Medicina Veterinária,nomeTURMA:MEDVET 6}",102
+"{qtd_credito:30,nomeDisciplina:Avicultura,cargaHoraria:45 horas}",103
+"{qtd_credito:30,nomeDisciplina:Terapeutica Veterinaria,cargaHoraria:45 horas}",104
+"{qtd_credito:30,nomeDisciplina:Clinica Medica de Pequenos Animais II,cargaHoraria:75 horas}",105
+"{qtd_credito:30,nomeDisciplina:Biologia,cargaHoraria:60 horas}",106
+"{qtd_credito:30,nomeDisciplina:Lingua Portuguesa,cargaHoraria:60 horas}",107
+"{qtd_credito:30,nomeDisciplina:Lingua Espanhola,cargaHoraria:60 horas}",108
+"{qtd_credito:30,nomeDisciplina:Geografia,cargaHoraria:60 horas}",109
+"{qtd_credito:30,nomeDisciplina:Engenharia de Software,cargaHoraria:60 horas}",110
+"{periodo:integral,curso:Técnico em Química Integrado ao Ensino Médio,nomeTURMA:3QUIMI}",111
+"{qtd_credito:30,nomeDisciplina:Fisico-Química I,cargaHoraria:60 horas}",112
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:1AGRO1}",113
+"{qtd_credito:30,nomeDisciplina:FORRAGICULTURA E PASTAGENS,cargaHoraria:60 horas}",114
+"{qtd_credito:30,nomeDisciplina:Programação de Scripts,cargaHoraria:60 horas}",115
+"{qtd_credito:30,nomeDisciplina:Programação 2,cargaHoraria:40 horas}",116
+"{periodo:matutino,curso:Bacharelado em Sistemas de Informacao,nomeTURMA:BSI 4}",117
+"{qtd_credito:30,nomeDisciplina:Redes sem Fio,cargaHoraria:40 horas}",118
+"{qtd_credito:30,nomeDisciplina:Gestão Educação,cargaHoraria:60 horas}",119
+"{qtd_credito:30,nomeDisciplina:Analise Instrumental,cargaHoraria:60 horas}",120
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:1AGRO2}",121
+"{qtd_credito:30,nomeDisciplina:Suinocultura,cargaHoraria:60 horas}",122
+"{qtd_credito:30,nomeDisciplina:Toxicologia Veterinaria e Plantas Toxicas  ,cargaHoraria:60 horas}",123
+"{qtd_credito:30,nomeDisciplina:Anatomia Veterinaria II,cargaHoraria:75 horas}",124
+"{qtd_credito:30,nomeDisciplina:Bem Estar Animal,cargaHoraria:60 horas}",125
+"{qtd_credito:30,nomeDisciplina:Microbiologia Veterinaria,cargaHoraria:75 horas}",126
+"{qtd_credito:30,nomeDisciplina:Fisiologia Veterinaria II,cargaHoraria:90 horas}",127
+"{qtd_credito:30,nomeDisciplina:Piscicultura,cargaHoraria:90 horas}",128
+"{qtd_credito:30,nomeDisciplina:Carcinicultura,cargaHoraria:60  horas}",129
+"{qtd_credito:30,nomeDisciplina:Agentes Virais Caninos e Felinos ,cargaHoraria:30 horas}",130
+"{qtd_credito:30,nomeDisciplina:Clinica Medica de Grandes Animais II,cargaHoraria:105 horas}",131
+"{qtd_credito:30,nomeDisciplina:Tecnologia de Leite e Derivados ,cargaHoraria:60 horas}",132
+"{nomeCurso: Técnico em Informática Integrado ao Ensino Médio,duracao:3 anos,descricao:O Curso Técnico em Informática Integrado ao Ensino Médio, oferecido pelo Instituto Federal Catarinense – Campus Araquari, tem a característica de formar profissionais com conhecimento técnico em programação, análise de requisitos para o desenvolvimento de sistemas e manutenção de computadores, de forma a atender a demanda de mercado, justificada pelos levantamentos técnicos e pesquisas realizadas na comunidade da região. }",133
+"{qtd_credito:30,nomeDisciplina:Multimídia,cargaHoraria:60 horas}",134
+"{qtd_credito:30,nomeDisciplina:Matematica,cargaHoraria:60 horas}",135
+"{qtd_credito:30,nomeDisciplina:Desenvolvimento Web 2,cargaHoraria:40 horas}",136
+"{periodo:matutino,curso:Bacharelado em Sistemas de Informacao,nomeTURMA:BSI 8}",137
+"{qtd_credito:30,nomeDisciplina:Analise e Desempenho de Sistemas,cargaHoraria:40 horas}",138
+"{qtd_credito:30,nomeDisciplina:Banco de Dados NoSQL,cargaHoraria:40 horas}",139
+"{qtd_credito:30,nomeDisciplina:Genetica Veterinaria,cargaHoraria:60 horas}",140
+"{qtd_credito:30,nomeDisciplina:Mecanização Agrícola,cargaHoraria:60 horas}",141
+"{qtd_credito:30,nomeDisciplina:Biologia e Prog. Saúde,cargaHoraria:60 horas}",143
+"{nomeCurso:Bacharelado em Medicina Veterinária,duracao:10 semestre,descricao:O curso de Bacharelado em Medicina Veterinária teve seu início em 2010 e vem ao encontro do espírito inovador do Instituto Federal Catarinense, visando suprir a carência de mercado, na formação direcionada de profissionais para atuarem na área. O objetivo do curso é formar médicos veterinários que contribuam para essa área de conhecimento, usando de um modo seguro e ético os múltiplos instrumentos disponíveis do ensino, da pesquisa e da extensão, sem afastar-se, no entanto, da capacidade analítica e da visão crítica de realidade, em sintonia com o mundo atual, seus desafios e tecnologias. }",144
+"{qtd_credito:30,nomeDisciplina:Fisiologia Veterinaria I,cargaHoraria:90 horas}",145
+"{qtd_credito:30,nomeDisciplina:Epidemiologia Veterinaria,cargaHoraria:90 horas}",146
+"{qtd_credito:30,nomeDisciplina:Patologia Geral,cargaHoraria:90 horas}",147
+"{qtd_credito:30,nomeDisciplina:Farmacologia Veterinaria,cargaHoraria:75 horas}",148
+"{qtd_credito:30,nomeDisciplina:Zootecnia I,cargaHoraria:60 horas}",149
+"{qtd_credito:30,nomeDisciplina:Prática Profissional,cargaHoraria:60 horas}",150
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:2AGRO1}",151
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:2AGRO3}",152
+"{qtd_credito:30,nomeDisciplina:Redes de Longa Distância,cargaHoraria:60 horas}",153
+"{periodo:noturno,curso:Superior de Tecnologia em Redes de Computadores,nomeTURMA:REDES 4}",154
+"{qtd_credito:30,nomeDisciplina:Iniciação Cientifica,cargaHoraria:60 horas}",155
+"{qtd_credito:30,nomeDisciplina:História,cargaHoraria:60 horas}",156
+"{qtd_credito:30,nomeDisciplina:Desenvolvimento Web,cargaHoraria:60 horas}",157
+"{qtd_credito:30,nomeDisciplina:Fund. Informática,cargaHoraria:60 horas}",158
+"{periodo:integral,curso: Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:1INFO2}",159
+"{periodo:noturno,curso:Licenciatura em Ciências Agrícolas,nomeTURMA:LICA 4}",160
+"{qtd_credito:30,nomeDisciplina:Filosofia Educação,cargaHoraria:60 horas}",161
+"{nomeCurso:Licenciatura em Química,duracao:8 semestres,descricao:O curso de Licenciatura em Química, pautado em suas Diretrizes Curriculares, engloba como competências e habilidades necessárias a esse profissional:Formação pessoal envolvendo o domínio de conhecimento sólido e abrangente na área de atuação, capacidade crítica, espírito investigativo, criatividade e iniciativa, capacidade de percepção dos aspectos filosóficos e sociais que definem a realidade educacional;Compreensão da Química, isto é, domínio dos saberes específicos à disciplina, como recorte do conhecimento socialmente produzido, sendo capaz de acompanhar e compreender os avanços científico-tecnológicos e educacionais;Tomada de consciência em relação à profissão, sua relevância social e sua contribuição para o desenvolvimento social e coletivo.}",162
+"{qtd_credito:30,nomeDisciplina:ENGENHARIA AGRÍCOLA II,cargaHoraria:60 horas}",163
+"{qtd_credito:30,nomeDisciplina:Hardware e Sistemas Operacionais,cargaHoraria:60 horas}",164
+"{qtd_credito:30,nomeDisciplina:Filsofia,cargaHoraria:60 horas}",165
+"{periodo:integral,curso:Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:2INFO2}",166
+"{periodo:integral,curso:Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:3INFO1}",167
+"{qtd_credito:30,nomeDisciplina:Bovinocultura de Corte e Leite,cargaHoraria:90 horas}",168
+"{qtd_credito:30,nomeDisciplina:Diagnótico Por Imagem ,cargaHoraria:60 horas}",169
+"{qtd_credito:30,nomeDisciplina:Zoonoses ,cargaHoraria:45 horas}",170
+"{qtd_credito:30,nomeDisciplina:Cirurgia Veterinaria,cargaHoraria:105 horas}",171
+"{qtd_credito:30,nomeDisciplina:Nutrição Clínica em Pequenos Animais ,cargaHoraria:45 horas}",172
+"{qtd_credito:30,nomeDisciplina:Oftalmologia ,cargaHoraria:45 horas}",173
+"{periodo:integral,curso: Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:3INFO3}",174
+"{qtd_credito:30,nomeDisciplina:Lógica Programação,cargaHoraria:60 horas}",175
+"{qtd_credito:30,nomeDisciplina:Produção Textual,cargaHoraria:60 horas}",176
+"{qtd_credito:30,nomeDisciplina:Artes,cargaHoraria:60 horas}",177
+"{nomeCurso:Curso Técnico em Química Integrado ao Ensino Médio,duracao:4 anos,descricao:Com o aumento de indústrias na região de Joinville, há uma demanda crescente por técnicos em química. Para a formação deste profissional, o Instituto Federal Catarinense Campus Araquari tem um corpo docente altamente qualificado, com mestres e doutores em diversas áreas. }",178
+"{qtd_credito:30,nomeDisciplina:Grupo de Estudos 1,cargaHoraria:60 horas}",179
+"{qtd_credito:30,nomeDisciplina:Metodologia da Pesquisa,cargaHoraria:60 horas}",180
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:1AGRO3}",183
+"{qtd_credito:30,nomeDisciplina:Agroecologia,cargaHoraria:60 horas}",184
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:3AGRO3}",185
+"{qtd_credito:30,nomeDisciplina:Zootecnia III,cargaHoraria:60 horas}",186
+"{qtd_credito:30,nomeDisciplina:Agricultura III,cargaHoraria:60 horas}",187
+"{qtd_credito:30,nomeDisciplina:Obstetricia e Andrologia Veterinaria ,cargaHoraria:75 horas}",188
+"{qtd_credito:30,nomeDisciplina:Laboratorio Clinico Veterinario ,cargaHoraria:60 horas}",189
+"{qtd_credito:30,nomeDisciplina:Lingua Inglesa,cargaHoraria:60 horas}",190
+"{qtd_credito:30,nomeDisciplina:Quimica,cargaHoraria:60 horas}",191
+"{qtd_credito:30,nomeDisciplina:Fisica,cargaHoraria:60 horas}",192
+"{qtd_credito:30,nomeDisciplina:Educação Fisica,cargaHoraria:60 horas}",193
+"{qtd_credito:30,nomeDisciplina:Ética,cargaHoraria:60 horas}",197
+"{qtd_credito:30,nomeDisciplina:Quimica Geral,cargaHoraria:60 horas}",198
+"{nomeCurso:Técnico em Agropecuária Integrado ao Ensino Médio,duracao:3 anos,descricao:O curso Técnico em Agropecuária, do Instituto Federal Catarinense Campus Araquari, é atualmente ofertado na modalidade integrada ao Ensino Médio.O curso, oferecido pela Instituição desde o ano de 1975, visa a formação de profissionais de nível médio que possuam conhecimentos científico-tecnológicos que possibilitem pensar científica e reflexivamente o mundo vivido como resultado das ações dos homens. Os egressos desse curso são profissionais com ampla formação técnico-filosófica nas áreas de produção vegetal, produção animal, engenharia agrícola, alimentos, administração e extensão rural, sendo agentes de reconhecida importância por serem responsáveis pela condução de mudanças nas mais diversas vertentes do setor agropecuário. }",199
+"{qtd_credito:30,nomeDisciplina:Desenhos Téc. Constr. Rurais,cargaHoraria:60 horas}",200
+"{qtd_credito:30,nomeDisciplina:Zootecnia II,cargaHoraria:60 horas}",201
+"{qtd_credito:30,nomeDisciplina:Topografia,cargaHoraria:60 horas}",202
+"{periodo:integral,curso: Técnico em Agropecuária Integrado ao Ensino Médio,nomeTURMA:3AGRO1}",203
+"{periodo:noturno,curso:Licenciatura em Ciências Agrícolas,nomeTURMA:LICA 2}",204
+"{periodo:noturno,curso:Licenciatura em Ciências Agrícolas,nomeTURMA:LICA 8}",205
+"{qtd_credito:30,nomeDisciplina:Estatistica,cargaHoraria:60 horas}",206
+"{qtd_credito:30,nomeDisciplina:Climatologia Aplic. CA,cargaHoraria:60 horas}",207
+"{periodo:integral,curso: Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:1INFO1}",208
+"{nomeCurso:Licenciatura em Ciências Agrícolas,duracao:8 semestre,descricao:O curso de Licenciatura em Ciências Agrícolas, oferecido pelo Instituto Federal Catarinense Campus Araquari, oportuniza ao acadêmico a possibilidade de cumprir um importante papel ao habilitar profissionais para exercerem a docência na área das ciências agrárias em cursos nos distintos níveis e modalidades de ensino. A formação proporcionada pela LICA oferece ainda ao egresso a oportunidade de maior desenvolvimento de habilidades interpessoais, de gerenciamento e relacionamento das áreas agrícolas, para assim solucionar questões inerentes à educação e aos problemas sociais e conjunturais presentes no meio rural brasileiro. }",209
+"{periodo:noturno,curso:Licenciatura em Ciências Agrícolas,nomeTURMA:LICA 6}",210
+"{qtd_credito:30,nomeDisciplina:Grupo de Estudos 4,cargaHoraria:60 horas}",211
+"{periodo:integral,curso: Técnico em Informática Integrado ao Ensino Médio,nomeTURMA:2INFO1}",212
+"{qtd_credito:30,nomeDisciplina:Programação,cargaHoraria:60 horas}",213
+"{qtd_credito:30,nomeDisciplina:Química Ambiental,cargaHoraria:60 horas}",214
+"{periodo:Noturno (e eventuais aulas aos sábados, além de disciplinas de estágio que exigirão atividades extraclasse, portanto fora do horário de aula),curso:Licenciatura em Química,nomeTURMA:LIQUI4}",222
+"{periodo:Noturno (e eventuais aulas aos sábados, além de disciplinas de estágio que exigirão atividades extraclasse, portanto fora do horário de aula),curso:Licenciatura em Química,nomeTURMA:LIQUI6}",223
+"{qtd_credito:30,nomeDisciplina:Calculo I ,cargaHoraria:60 horas}",224
+"{qtd_credito:30,nomeDisciplina:Química Orgânica I,cargaHoraria:60 horas}",225
+"{qtd_credito:30,nomeDisciplina:Administração Rural,cargaHoraria:60 horas}",226
+"{qtd_credito:30,nomeDisciplina:Produtos Agroindustriais,cargaHoraria:60 horas}",227
+"{qtd_credito:30,nomeDisciplina:PPE IV,cargaHoraria:60 horas}",228
+"{qtd_credito:30,nomeDisciplina:Fisica geral III,cargaHoraria:60 horas}",230
+"{qtd_credito:30,nomeDisciplina:Quimica,Sociedade e Consumo,cargaHoraria:60 horas}",231
+"{periodo:noturno,curso:Superior de Tecnologia em Redes de Computadores,nomeTURMA:REDES 2}",232
+"{periodo:noturno,curso:Superior de Tecnologia em Redes de Computadores,nomeTURMA:REDES 6}",233
+"{qtd_credito:30,nomeDisciplina:Legislação Aplicada a Informática,cargaHoraria:60 horas}",234
+"{qtd_credito:30,nomeDisciplina:Gerência de Redes,cargaHoraria:60 horas}",235
+"{periodo:integral,curso:Técnico em Química Integrado ao Ensino Médio,nomeTURMA:1QUIMI}",236
+"{qtd_credito:30,nomeDisciplina:Sociol. Educação,cargaHoraria:60 horas}",237
+"{qtd_credito:30,nomeDisciplina:Tecnologias da Educação,cargaHoraria:60 horas}",238
+"{qtd_credito:30,nomeDisciplina:Fitotecnia II,cargaHoraria:60 horas}",239
+"{qtd_credito:30,nomeDisciplina:Agroecossistemas,cargaHoraria:60 horas}",240
+"{qtd_credito:30,nomeDisciplina:ProcessamentoAlimentos,cargaHoraria:60 horas}",241
+"{qtd_credito:30,nomeDisciplina:Administração Rural 2,cargaHoraria:60 horas}",242
+"{qtd_credito:30,nomeDisciplina:Química Inorgânica II,cargaHoraria:60 horas}",243
+"{qtd_credito:30,nomeDisciplina:PPE II,cargaHoraria:60 horas}",251
+"{qtd_credito:30,nomeDisciplina:Solos,cargaHoraria:60 horas}",252
+"{qtd_credito:30,nomeDisciplina:Leitura Prod. Textual,cargaHoraria:60 horas}",253
+"{qtd_credito:30,nomeDisciplina:Didatica,cargaHoraria:60 horas}",254
+"{qtd_credito:30,nomeDisciplina:Defesa Fitossanitaria,cargaHoraria:60 horas}",255
+"{qtd_credito:30,nomeDisciplina:Libras,cargaHoraria:60 horas}",256
+"{qtd_credito:30,nomeDisciplina:Estagio II,cargaHoraria:60 horas}",257
+"{qtd_credito:30,nomeDisciplina:Engenharia Agricola,cargaHoraria:60 horas}",258
+"{qtd_credito:30,nomeDisciplina:Educação Gestão Ambiental,cargaHoraria:60 horas}",259
+"{qtd_credito:30,nomeDisciplina:Estagio IV,cargaHoraria:60 horas}",260
+"{periodo:Noturno (e eventuais aulas aos sábados, além de disciplinas de estágio que exigirão atividades extraclasse, portanto fora do horário de aula),curso:Licenciatura em Química,nomeTURMA:LIQUI2}",261
+"{periodo:Noturno (e eventuais aulas aos sábados, além de disciplinas de estágio que exigirão atividades extraclasse, portanto fora do horário de aula),curso:Licenciatura em Química,nomeTURMA:LIQUI8}",262
+"{qtd_credito:30,nomeDisciplina:Fisica Geral I ,cargaHoraria:60 horas}",263
+"{qtd_credito:30,nomeDisciplina:Química Geral e Experimental  II  ,cargaHoraria:60 horas}",264
+"{qtd_credito:30,nomeDisciplina:Química Analítica Qualitativa,cargaHoraria:60 horas}",265
+"{qtd_credito:30,nomeDisciplina:Oficina Produção de Recursos Didaticos,cargaHoraria:60 horas}",266
+"{qtd_credito:30,nomeDisciplina:Teorias do Currículo,cargaHoraria:60 horas}",267
+"{qtd_credito:30,nomeDisciplina:Elementos de Mineralogia e Geologia,cargaHoraria:60 horas}",268
+"{nomeCurso:Superior de Tecnologia em Redes de Computadores,duracao:6 semestre,descricao:passa }",269
+"{qtd_credito:30,nomeDisciplina:Fundamentos de Roteamento e Comutação,cargaHoraria:60 horas}",270
+"{qtd_credito:30,nomeDisciplina:Operações Unitárias,cargaHoraria:60 horas}",271
+"{qtd_credito:30,nomeDisciplina:Bioquimica,cargaHoraria:60 horas}",272
+"{qtd_credito:30,nomeDisciplina:Química Analítica Instrumental,cargaHoraria:60 horas}",273
+"{qtd_credito:30,nomeDisciplina:Quimica Tecnológica,cargaHoraria:60 horas}",274
+"{qtd_credito:30,nomeDisciplina:Tratamento de Águas e Efluentes	,cargaHoraria:60 horas}",275
+"{cursos:Bacharelado em Agronomia, Bacharelado em Medicina Veterinária, Bacharelado em Sistemas de Informação,Especialização em Aquicultura, Especialização em Educação Matemática, Formação Inicial e Continuada – FIC, Licenciatura em Ciências Agrícolas, Licenciatura em Química, Mestrado em Produção e Sanidade Animal, Técnico em Agrimensura Subsequente ao Ensino Médio, Técnico em Agropecuária Integrado ao Ensino Médio, Técnico em Informática Integrado ao Ensino Médio, Técnico em Química Integrado ao Ensino Médio,Tecnologia em Redes de Computadores,Diretor:Jonas da Cunha,nomeCampus:Instituto Federal Catarinense - Campus Araquari,Telefone:(47) 3803-7200,Endereco: Rodovia BR 280, km 27 ,Cep:89245-000,Cidade:Araquari-SC}",276
+"{qtd_credito:30,nomeDisciplina:Microbiologia,cargaHoraria:60 horas}",287
+"{qtd_credito:30,nomeDisciplina:Espanhol Instrumental	,cargaHoraria:60 horas}",288
+"{qtd_credito:30,nomeDisciplina:Gestão e Empreendedorismo,cargaHoraria:60 horas}",289
+"{qtd_credito:30,nomeDisciplina:Segurança da Informação,cargaHoraria:60 horas}",290
+"{periodo:integral,curso:Técnico em Química Integrado ao Ensino Médio,nomeTURMA:2QUIMI}",291
+"{periodo:integral,curso:Técnico em Química Integrado ao Ensino Médio,nomeTURMA:4QUIMI}",292
+"{qtd_credito:30,nomeDisciplina:Físico-Química II,cargaHoraria:60 horas}",293
+"{qtd_credito:30,nomeDisciplina:Química Orgânica II,cargaHoraria:60 horas}",294
+"{qtd_credito:30,nomeDisciplina:Corrosão e Tratamento de Superfície,cargaHoraria:60 horas}",302
+"{qtd_credito:30,nomeDisciplina:Química Analítica Quantitativa,cargaHoraria:60 horas}",303
+"{qtd_credito:30,nomeDisciplina:	Inglês Instrumental	,cargaHoraria:60 horas}",304
